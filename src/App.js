@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello CYSE 1008!
+          Hello CYSE 1008 2025!
         </a>
       </header>
     </div>
